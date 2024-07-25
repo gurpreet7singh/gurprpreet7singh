@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning python, html, css, javascript
 - 💞️ I’m looking to collaborate on anything that can help me learning above-mentioned topics
-- 📫 How to reach me email:-7gaming147@gmail.com, insta:-gurpreet_______singh_
+- 📫 How to reach me email:-7gaming147@gmail.com, insta:-@gurpreet_______singh_
 
 
 <!---
